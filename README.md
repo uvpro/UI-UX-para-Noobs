@@ -10,7 +10,7 @@
   - **Iconos**  
   - **Placeholders**
  
-- **[3 - Hex Colours](#3---colorex-hex)**
+- **[3 - Hex Colours](#3---colores-hex)**
   - **Colores comunes**  
   - **Compañías**  
   - **Rojo**  
